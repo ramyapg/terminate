@@ -24,7 +24,7 @@ import { LoginComponent } from './login/login.component';
 const oktaConfig: OktaAuthOptions = {
   issuer: 'https://dev-78990436.okta.com/oauth2/default',
   clientId: '0oa4xce2mnfvXETZC5d7',
-  redirectUri: window.location.origin + '/login/callback'
+  redirectUri: "https://ramyapg.github.io/terminate" + '/login/callback'
 };
 
 

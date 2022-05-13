@@ -5,7 +5,7 @@ import { Tokens } from '@okta/okta-auth-js';
 import OktaSignIn from '@okta/okta-signin-widget';
 
 
-const DEFAULT_ORIGINAL_URI = window.location.origin;
+const DEFAULT_ORIGINAL_URI = "https://ramyapg.github.io";
 
 @Component({
   selector: 'app-login',
